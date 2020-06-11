@@ -5,7 +5,7 @@ header {
   padding: 55px;
 }
 
-@media only screen and (min-width: 992px) {
+/* @media only screen and (min-width: 992px) {
   header {
     position: relative;
   }
@@ -20,7 +20,7 @@ header {
   .btn {
     width: 100%;
   }
-}
+} */
 .btn {
   background: linear-gradient(270deg, #fa6262 0%, #f8875f 100%);
 }
